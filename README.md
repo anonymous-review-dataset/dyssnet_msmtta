@@ -9,11 +9,11 @@ This repository provides the official codes of DySSNet with MSM-TTA and the UGIA
 
 ```bash
 # Clone repository
-git clone https://github.com/anonymous-review-dataset/dyssnet_msmtta.git
+git clone https://anonymous.4open.science/r/dyssnet_msmtta_2026.git DySSNet
 cd DySSNet
 
 # Create conda environment
-conda create -n dyssnet python=3.10
+conda create -n dyssnet python=3.10 -y
 conda activate dyssnet
 
 # Run automated installation
